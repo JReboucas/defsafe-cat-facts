@@ -58,6 +58,10 @@ Ações:
 
 fetchCatFact: Faz uma chamada à API para obter novos fatos sobre gatos. Os fatos são armazenados no cache para evitar múltiplas requisições desnecessárias.
 
+Test Unitario
+
+utilizei o jest para testes, realizei 4 testes do index.vue, tanto para testar a chamda da API quanto a micro interação e o transition out/in
+
 Instruções para Executar o Projeto
 Para rodar o projeto localmente, siga os passos abaixo:
 
