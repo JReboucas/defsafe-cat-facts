@@ -45,3 +45,5 @@ npm run dev
 
 Conclusão
 Este projeto cumpre todos os requisitos do teste técnico, incluindo a responsividade, consumo de API, gerenciamento de estado com Pinia, testes unitários com Jest, e transições visuais com Tailwind CSS.
+
+finalizado em 35 minutos.
